@@ -8,7 +8,7 @@ Interfas personalizada para uso empresarial
 
 ## 📂 Estructura del Proyecto 
 
-📁 mi-proyecto
+📁 DevWork
 ├── 📁 assets
 ├── 📁 css
 ├── 📁 js
